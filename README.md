@@ -1,4 +1,5 @@
 <p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65F718&width=435&lines=Hello+Soldat.+;I'm+AchinthaB;From+The+Hell.+;Just+Kidding+%F0%9F%98%81;From+Sri+Lanka)](https://git.io/typing-svg)
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlvbWJiaHFsc2xueHl5MmIzbmlwNmIwYWswNHNhZDEya2MxOGU3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif" alt="Achintha's GIF" />
 </p>
 
