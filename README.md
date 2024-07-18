@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjk2NGxpY3FmeHVyc3hza2Y2c2F5eGFyOGljaGNjYXh6cW5wcGU5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EMpPEre2PqFy8GkOZE/giphy.gif" alt="Achintha's GIF" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlvbWJiaHFsc2xueHl5MmIzbmlwNmIwYWswNHNhZDEya2MxOGU3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif" alt="Achintha's GIF" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Achintha B Wijerathna</h1>
