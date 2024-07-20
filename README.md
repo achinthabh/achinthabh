@@ -5,7 +5,7 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlvbWJiaHFsc2xueHl5MmIzbmlwNmIwYWswNHNhZDEya2MxOGU3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif" alt="Achintha's GIF" />
 </p>
 <p>
-👋 Hi there! I'm Achintha Bhanuka, a passionate Computer Networks student currently pursuing my degree at NSBM Green University. I have a strong interest in networking technologies, VoIP engineering, and cloud computing.
+👋 Hi there! I'm Achintha Bhanuka Wijerathna, a passionate Computer Networks student currently pursuing my degree at NSBM Green University. I have a strong interest in networking technologies, VoIP engineering, and cloud computing.
 </p>
 
 
