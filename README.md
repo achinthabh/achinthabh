@@ -1,7 +1,9 @@
 <br clear="both">
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=8000&size=33&duration=2000&pause=5&color=65F718&center=true&width=435&lines=Hello+Soldat.+;I'm+AchinthaB;From+The+Hell.+;Just+Kidding+%F0%9F%98%81;From+Sri+Lanka" alt="Typing SVG" /></a>
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlvbWJiaHFsc2xueHl5MmIzbmlwNmIwYWswNHNhZDEya2MxOGU3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif" alt="Achintha's GIF" />
+</p>
 
 
 <h4 align="left">📡 I’m currently working on VoIP Engineering projects and Java programming assignments.<br><br>🤝 I’m looking to collaborate on open-source projects related to wireless and mobile networks. and cloud Computing<br><br>🧑‍🎓I’m an Undergraduate at NSBM Green University<br><br>🆘 I’m looking for help with improving my GitHub profile and finding opportunities for internships in the VoIP field.<br><br>🌱 I’m currently learning  Java and researching about quantum Computing<br><br>💬 Ask me about cloud computing projects.<br><br>⚡ Fun fact: I think I'm In WORLD WAR</h4>
