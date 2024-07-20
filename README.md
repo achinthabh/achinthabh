@@ -6,7 +6,8 @@
 </p>
 
 
-<h4 align="left">📡 I’m currently working on VoIP Engineering projects and Java programming assignments.<br><br>🤝 I’m looking to collaborate on open-source projects related to wireless and mobile networks. and cloud Computing<br><br>🧑‍🎓I’m an Undergraduate at NSBM Green University<br><br>🆘 I’m looking for help with improving my GitHub profile and finding opportunities for internships in the VoIP field.<br><br>🌱 I’m currently learning  Java and researching about quantum Computing<br><br>💬 Ask me about cloud computing projects.<br><br>⚡ Fun fact: I think I'm In WORLD WAR</h4>
+<h4 align="left">👋 Hi there! I'm Achintha Bhanuka, a passionate Computer Networks student currently pursuing my degree at NSBM Green University. I have a strong interest in networking technologies, VoIP engineering, and cloud computing.<br>
+  📡 I’m currently working on VoIP Engineering projects and Java programming assignments.<br><br>🤝 I’m looking to collaborate on open-source projects related to wireless and mobile networks. and cloud Computing<br><br>🧑‍🎓I’m an Undergraduate at NSBM Green University<br><br>🆘 I’m looking for help with improving my GitHub profile and finding opportunities for internships in the VoIP field.<br><br>🌱 I’m currently learning  Java and researching about quantum Computing<br><br>💬 Ask me about cloud computing projects.<br><br>⚡ Fun fact: I think I'm In WORLD WAR</h4>
 
 ###
 
