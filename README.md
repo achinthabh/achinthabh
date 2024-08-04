@@ -97,9 +97,10 @@
 ###
 
 <h4 align="left">" Life is like riding a bicycle. To keep your balance you must keep moving " - Albert Einstein -</h4>
+<br><br>
 
 ###
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 <br><br>
 
 <br clear="both">
