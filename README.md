@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=8000&size=33&duration=2000&pause=5&color=65F718&center=true&width=435&lines=Hello+Soldat.+;I'm+AchinthaB;From+The+Hell.+;Just+Kidding+%F0%9F%98%81;From+Sri+Lanka" alt="Typing SVG" /></a>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlvbWJiaHFsc2xueHl5MmIzbmlwNmIwYWswNHNhZDEya2MxOGU3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif" alt="Achintha's GIF" width="1000" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlvbWJiaHFsc2xueHl5MmIzbmlwNmIwYWswNHNhZDEya2MxOGU3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif" alt="Achintha's GIF" width="800" />
 </p>
 <p>
 👋 Hi there! I'm Achintha Bhanuka Wijerathna, a passionate Computer Networks student currently pursuing my degree at NSBM Green University. I have a strong interest in networking technologies, VoIP engineering, and cloud computing.
