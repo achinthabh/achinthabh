@@ -1,121 +1,249 @@
-<br clear="both">
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=8000&size=33&duration=2000&pause=5&color=65F718&center=true&width=435&lines=Hello+Soldat.+;I'm+AchinthaB;From+The+Hell.+;Just+Kidding+%F0%9F%98%81;From+Sri+Lanka" alt="Typing SVG" /></a>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        HEADER WAVE                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,30&height=200&section=header&text=Achintha%20Bhanuka&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Networks%20%E2%80%A2%20VoIP%20%E2%80%A2%20Cloud%20%E2%80%A2%20Code&descSize=20&descAlignY=58&descAlign=50"/>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlvbWJiaHFsc2xueHl5MmIzbmlwNmIwYWswNHNhZDEya2MxOGU3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif" alt="Achintha's GIF" width="800" />
-</p>
-<p>
-👋 Hi there! I'm Achintha Bhanuka Wijerathna, a passionate Computer Networks student currently pursuing my degree at NSBM Green University. I have a strong interest in networking technologies, VoIP engineering, and cloud computing.
-</p>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED INTRO                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=600&color=00F5A0&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Achintha!+%F0%9F%91%8B;Computer+Networks+Student+%F0%9F%93%A1;VoIP+Engineer+in+the+Making+%E2%98%8E%EF%B8%8F;Cloud+Explorer+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%9A%80;From+the+Beautiful+Island+of+%F0%9F%87%B1%F0%9F%87%B0+Sri+Lanka!" alt="Typing SVG" />
+</a>
 
-<h4 align="left">
-📡 I’m currently working on VoIP Engineering projects and Java programming assignments.<br><br>🤝 I’m looking to collaborate on open-source projects related to wireless and mobile networks. and cloud Computing<br><br>🧑‍🎓I’m an Undergraduate at NSBM Green University<br><br>🆘 I’m looking for help with improving my GitHub profile and finding opportunities for internships in the VoIP field.<br><br>🌱 I’m currently learning  Java and researching about quantum Computing<br><br>💬 Ask me about cloud computing projects.<br><br>⚡ Fun fact: I think I'm In WORLD WAR</h4>
+<br/>
 
-###
+<img src="https://komarev.com/ghpvc/?username=achinthabh&label=👀+Profile+Views&color=00c4cc&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/achinthabh?label=🤝+Followers&style=flat-square&color=f7971e" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open_To-Internships-brightgreen?style=flat-square&logo=briefcase" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🧑‍💻 Who Am I?
+
+<img align="right" width="280" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlvbWJiaHFsc2xueHl5MmIzbmlwNmIwYWswNHNhZDEya2MxOGU3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif" />
+
+```yaml
+👤  Name     : Achintha Bhanuka Wijerathna
+🌍  Location : Colombo, Sri Lanka 🇱🇰
+🎓  Studying : BSc (Hons) Computer Networks
+🏫  Uni      : NSBM Green University
+🔭  Focus    : VoIP Engineering & Cloud Computing
+📚  Learning : Java ☕ + Quantum Computing 🔬
+💡  Motto    : Build. Break. Learn. Repeat. 🔄
+⚡  Fun Fact : I think I'm in WORLD WAR 🌍💥
+```
+
+<br/>
+
+### 🔥 What I'm Up To
+
+- 📡 **Building** VoIP engineering projects using SIP & RTP stacks
+- ☁️ **Exploring** Azure, Google Cloud & DigitalOcean deployments
+- ☕ **Sharpening** my Java skills through real-world assignments
+- 🤝 **Open to** open-source collaborations in wireless & mobile networks
+- 🆘 **Seeking** internship opportunities in the VoIP/Networking space
+- 🔬 **Researching** Quantum Computing and its future in networking
+
+<br/>
+
+> *"Life is like riding a bicycle. To keep your balance, you must keep moving."*  
+> **— Albert Einstein** 🚲
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  VOIP & NETWORKING                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📡 VoIP & Networking Expertise
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achinthabh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=achinthabh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+| 🔧 Domain | 💡 Technologies & Concepts |
+|:----------|:--------------------------|
+| ☎️ **VoIP Protocols** | SIP · RTP · SRTP · H.323 · WebRTC · MGCP |
+| 🌐 **Networking** | TCP/IP · DNS · DHCP · NAT · VLAN · BGP |
+| 🛠️ **VoIP Platforms** | Asterisk · FreePBX · 3CX |
+| 📊 **Analysis Tools** | Wireshark · Cisco Packet Tracer |
+| 📶 **Wireless** | 802.11 (a/b/g/n/ac) · LTE · 5G NR |
+| 🔒 **Network Security** | Firewalls · VPN · TLS/SRTP · IDS/IPS |
+
 </div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href=”https://www.google.com“><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-</div>
-
-###
-
-<img align="right" height="100" src="https://media1.tenor.com/m/eyqRSiKZ-k0AAAAC/im-gonna-git-ya-boi-git-ya.gif"  />
-
-###
-
-<h4 align="left">" Life is like riding a bicycle. To keep your balance you must keep moving " - Albert Einstein -</h4>
-<br><br>
-
-###
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
-<br><br>
-
-<br clear="both">
-
-###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/achinthabh/count.svg?"  />
+
+<img src="https://img.shields.io/badge/SIP-Protocol-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RTP-Streaming-4ECDC4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Asterisk-PBX-F7DC6F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebRTC-Realtime-A29BFE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-Analysis-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/5G-Networks-3498DB?style=for-the-badge"/>
+
 </div>
 
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CLOUD JOURNEY                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## ☁️ Cloud Journey
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+
+</div>
+
+```
+☁️  Current Focus  →  Azure Virtual Networks + Cloud Telephony Integration
+🔭  Goal           →  Cloud-native VoIP solutions that scale globally
+🧪  Experimenting  →  Serverless architectures & containerized PBX systems
+📜  Chasing        →  Cloud certifications (AZ-900 → AZ-104)
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TECH ARSENAL                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**⚡ Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,c,cpp,php&theme=dark" />
+
+<br/><br/>
+
+**🌐 Web & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,flutter&theme=dark" />
+
+<br/><br/>
+
+**☁️ Cloud & Infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,gcp,arduino,linux&theme=dark" />
+
+<br/><br/>
+
+**🗄️ Data & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,intellij&theme=dark" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=achinthabh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achinthabh&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=achinthabh&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=achinthabh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=achinthabh&theme=tokyo-night&hide_border=true&border_radius=15&area=true" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   CONNECT WITH ME                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+<a href="https://www.youtube.com">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   CONTRIBUTION SNAKE                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🐍 Watch My Contributions Get Eaten!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/achinthabh/achinthabh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/achinthabh/achinthabh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/achinthabh/achinthabh/output/github-snake.svg" />
 </picture>
 
-###
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      FOOTER WAVE                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,30&height=130&section=footer"/>
