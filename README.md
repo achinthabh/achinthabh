@@ -1,22 +1,28 @@
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                         HEADER                              -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!--
+███████████████████████████████████████████████████████████████
+  ACHINTHA BHANUKA — GITHUB PROFILE README
+  Theme: Cyberpunk · Gen Z · Cloud & Cybersec Beginner
+███████████████████████████████████████████████████████████████
+-->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=achintha.sh&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%98%81%EF%B8%8F+cloud+devops+%C2%B7+%F0%9F%94%90+cybersecurity+%C2%B7+%F0%9F%87%B1%F0%9F%87%B0+sri+lanka&descSize=18&descAlignY=60&descAlign=50"/>
+<!-- ░░░ HEADER ░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,40:8000FF,100:00F5FF&height=230&section=header&text=achintha.sh&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%F0%9F%94%90+cybersec+%C2%B7+%E2%98%81%EF%B8%8F+cloud+%C2%B7+%F0%9F%90%B3+devops+%C2%B7+%F0%9F%87%B1%F0%9F%87%B0+lk&descSize=19&descAlignY=60&descAlign=50"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=00FFA3&center=true&vCenter=true&width=700&lines=hey+i'm+Achintha+%F0%9F%91%BE;Cloud+DevOps+Engineer+in+the+Making+%E2%98%81%EF%B8%8F;Ethical+Hacker+(the+legal+kind+%F0%9F%98%85);Breaking+things+so+prod+doesn't+%F0%9F%92%80;CTF+Player+%C2%B7+Blue+%26+Red+Teamer+%F0%9F%94%B4%F0%9F%94%B5;Pushing+to+main+at+3am+hits+different+%F0%9F%8C%99" alt="Typing SVG" />
-</a>
+<!-- Typing animation — cyberpunk magenta -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=FF00C8&center=true&vCenter=true&width=750&lines=hey+it's+Achintha+%F0%9F%91%BE;just+entered+the+matrix+%F0%9F%9F%A2;beginner+in+cloud+%26+cybersec+(no+cap)+%E2%98%81%EF%B8%8F%F0%9F%94%90;learning+to+hack...+ethically+%F0%9F%98%87;docker+go+brrr+%F0%9F%90%B3;from+%F0%9F%87%B1%F0%9F%87%B0+sri+lanka+with+wifi" alt="Typing SVG"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=achinthabh&label=profile+views&color=00FFA3&style=flat-square"/>
+<!-- Badges -->
+<img src="https://komarev.com/ghpvc/?username=achinthabh&label=👁+profile+views&color=FF00C8&style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/achinthabh?label=followers&style=flat-square&color=a855f7"/>
+<img src="https://img.shields.io/github/followers/achinthabh?label=⚡+followers&style=flat-square&color=00F5FF"/>
 &nbsp;
-<img src="https://img.shields.io/badge/open%20to-internships%20%26%20collab-00FFA3?style=flat-square"/>
+<img src="https://img.shields.io/badge/status-main_character_arc_🔥-8000FF?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/open_to-internships_&_collab-FF0080?style=flat-square"/>
 
 </div>
 
@@ -24,49 +30,79 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                             -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░ WHOAMI ░░░ -->
 
-## 👾 whoami
-
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## ◈ `whoami`
 
 ```bash
-$ cat /etc/achintha.conf
+┌──(achintha㉿universe)-[~]
+└─$ cat about.txt
 
-  name       →  Achintha Bhanuka Wijerathna
-  location   →  Colombo, Sri Lanka 🇱🇰
-  university →  NSBM Green University
-  degree     →  BSc (Hons) Computer Networks
-  focus      →  Cloud DevOps ☁️ + Cybersecurity 🔐
-  status     →  deployed, not stressed ✅
-  sleep      →  lol what's that
-  fun_fact   →  i think i'm in WORLD WAR 🌍
+  ██████╗ ██╗   ██╗ █████╗ ██████╗
+ ██╔════╝ ╚██╗ ██╔╝██╔══██╗██╔══██╗
+ ██║       ╚████╔╝ ███████║██████╔╝
+ ██║        ╚██╔╝  ██╔══██║██╔══██╗
+ ╚██████╗   ██║   ██║  ██║██║  ██║
+  ╚═════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
+
+  name      →  Achintha Bhanuka Wijerathna
+  aka       →  achinthabh on github
+  location  →  Colombo, Sri Lanka 🇱🇰
+  uni       →  NSBM Green University
+  degree    →  BSc (Hons) Computer Networks
+  level     →  beginner (speedrunning to pro) 🚀
+  focus     →  Cloud ☁️  DevOps 🐳  Cybersec 🔐
+  status    →  currently in my learning arc 📖
+  sleep     →  lol what even is that
+  fun fact  →  i think we're in WORLD WAR 🌍💥
 ```
 
 <br/>
 
-**no cap, currently:**
+**lowkey, currently:**
 
-- ☁️ **deploying** cloud infra on Azure & GCP like it's minecraft
-- 🔐 **breaking into** stuff ethically (CTF grind never stops)
-- 🐳 **containerizing** everything — if it runs, it runs in Docker
-- 🤖 **automating** boring ops stuff so I can focus on the fun parts
-- 📜 **chasing** certs: AZ-900 → AZ-104 → Security+ pipeline
-- 🤝 **open to** internships, open-source, and chaos (the fun kind)
+- 🌱 **total beginner** in cloud & cybersec — no shame, just grinding
+- ☁️ **poking around** Azure & GCP to see how stuff works
+- 🔐 **doing rooms** on TryHackMe (taking the L's like a champ)
+- 🐳 **figuring out** Docker one error message at a time
+- 📜 **chasing** AZ-900 first, then the rest of the cert pipeline
+- 🤝 **open to** anyone who wants to learn together fr
 
 <br/>
 
-> *"the best way to predict the future is to automate it"* 🤷
+> *"every expert was once a beginner who didn't quit"* 💜  
+> skill issue? temporary. grind? permanent. 😤
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       CLOUD DEVOPS                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░ LEARNING ROADMAP ░░░ -->
 
-## ☁️ Cloud & DevOps Stack
+## ◈ `./roadmap.sh` — the grind plan
+
+<div align="center">
+
+```
+CLOUD DEVOPS PATH                    CYBERSECURITY PATH
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🔄  Linux fundamentals               🔄  Networking basics
+  🔄  Bash scripting                   🔄  TryHackMe beginner rooms
+  🎯  Docker basics                    🎯  OWASP Top 10
+  🎯  Azure Fundamentals (AZ-900)      🎯  CTF competitions
+  🎯  CI/CD with GitHub Actions        🎯  CompTIA Security+
+  💭  Kubernetes                       💭  Bug bounty hunting
+  💭  Terraform / IaC                  💭  CEH / OSCP (the dream)
+  💭  Cloud Security                   💭  Red team ops
+
+  🔄 = in progress   🎯 = next up   💭 = future goals
+```
+
+</div>
+
+---
+
+<!-- ░░░ CLOUD & DEVOPS ░░░ -->
+
+## ◈ `☁️ cloud + devops` — what i'm learning
 
 <div align="center">
 
@@ -76,19 +112,19 @@ $ cat /etc/achintha.conf
 
 <br/><br/>
 
-**Containers & Orchestration**
+**Containers & Automation**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible&theme=dark"/>
 
 <br/><br/>
 
-**IaC & Automation**
+**Linux & Scripting**
 <br/>
-<img src="https://skillicons.dev/icons?i=terraform,ansible,bash,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github&theme=dark"/>
 
 <br/><br/>
 
-**CI/CD & Monitoring**
+**CI/CD & Observability**
 <br/>
 <img src="https://skillicons.dev/icons?i=githubactions,jenkins,grafana,prometheus&theme=dark"/>
 
@@ -98,34 +134,31 @@ $ cat /etc/achintha.conf
 
 <div align="center">
 
-```
-🏗️  Pipeline  →  Code → Build → Test → Deploy → Monitor → repeat
-🐳  Mantra    →  "works in Docker" > "works on my machine"
-📦  IaC       →  if it's not in Terraform it doesn't exist
-🔁  CI/CD     →  GitHub Actions pipeline running while I sleep
-📊  Observe   →  Grafana dashboards go brrr
-```
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      CYBERSECURITY                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░ CYBERSECURITY ░░░ -->
 
-## 🔐 Cybersecurity
+## ◈ `🔐 cybersecurity` — just getting started
 
 <div align="center">
 
-| 🗂️ Domain | 🛠️ Tools & Concepts |
-|:----------|:--------------------|
-| 🔴 **Pentesting** | Metasploit · Burp Suite · Nmap · Gobuster |
-| 🌐 **Web Security** | OWASP Top 10 · SQLi · XSS · SSRF · IDOR |
-| 📡 **Network Sec** | Wireshark · Nmap · Netcat · Tcpdump |
-| 🧠 **OSINT** | Maltego · theHarvester · Shodan |
-| 🔵 **Blue Team** | SIEM · Log Analysis · IDS/IPS · Hardening |
-| 🚩 **CTF** | TryHackMe · HackTheBox · PicoCTF |
+| 🗂️ Domain | 🛠️ Tools & Concepts | 📊 Level |
+|:----------|:--------------------|:---------|
+| 🌐 **Web Security** | OWASP Top 10 · Burp Suite | 🟡 Learning |
+| 📡 **Networking** | Wireshark · Nmap · TCP/IP | 🟡 Learning |
+| 🔴 **Pentesting** | Metasploit · Kali Linux basics | 🔴 Beginner |
+| 🔵 **Blue Team** | SIEM concepts · Log analysis | 🔴 Beginner |
+| 🚩 **CTF** | TryHackMe rooms | 🟡 Active |
+| 🧠 **OSINT** | Shodan · theHarvester | 🔴 Exploring |
 
 </div>
 
@@ -134,75 +167,86 @@ $ cat /etc/achintha.conf
 <div align="center">
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      CERT ROADMAP                           -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░ CERT ROADMAP ░░░ -->
 
-## 📜 Cert Roadmap (the grind is real)
+## ◈ `📜 cert pipeline` — chasing paper
 
 <div align="center">
 
-| Status | Certification | Provider |
-|:------:|:-------------|:---------|
-| 🔄 In Progress | AZ-900: Azure Fundamentals | Microsoft |
-| 🎯 Up Next | AZ-104: Azure Administrator | Microsoft |
-| 🎯 Queued | CompTIA Security+ | CompTIA |
-| 🎯 Queued | Google Cloud Associate | Google |
-| 💭 Dreaming | CEH / OSCP | EC-Council / OffSec |
+| Status | Certification | Provider | Vibe |
+|:------:|:-------------|:---------|:-----|
+| 🔄 Grinding | AZ-900: Azure Fundamentals | Microsoft | *it's happening* |
+| 🎯 Next | AZ-104: Azure Administrator | Microsoft | *soon™* |
+| 🎯 Queued | CompTIA Security+ | CompTIA | *the classic* |
+| 🎯 Queued | Google Cloud ACE | Google | *double cloud* |
+| 💭 One day | CEH / OSCP | EC-Council / OffSec | *the dream* |
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      TECH ARSENAL                           -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░ RESOURCES ░░░ -->
 
-## 🛠️ Full Tech Arsenal
+## ◈ `📚 where i actually learn` — the real ones
 
 <div align="center">
 
-**Languages**
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud_Skills-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Learning-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+
+</div>
+
+---
+
+<!-- ░░░ FULL TECH STACK ░░░ -->
+
+## ◈ `🛠️ tools i touch`
+
+<div align="center">
+
+**Languages I Know**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,bash,java,js,cs,php&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,cs,php,bash&theme=dark"/>
 
 <br/><br/>
 
-**Web & Tools**
+**Web Stack**
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,mysql,nginx&theme=dark"/>
 
 <br/><br/>
 
-**Dev Environment**
+**My Setup**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,arduino&theme=dark"/>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATS                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░ GITHUB STATS ░░░ -->
 
-## 📊 GitHub Stats (the receipts 🧾)
+## ◈ `📊 the receipts` — github stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=achinthabh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=achinthabh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achinthabh&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achinthabh&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" height="165"/>
 
 </div>
 
@@ -210,7 +254,7 @@ $ cat /etc/achintha.conf
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=achinthabh&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"/>
+<img src="https://streak-stats.demolab.com/?user=achinthabh&theme=radical&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&ring=FF00C8&fire=FF0080&currStreakLabel=00F5FF"/>
 
 </div>
 
@@ -218,7 +262,7 @@ $ cat /etc/achintha.conf
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=achinthabh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=achinthabh&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4"/>
 
 </div>
 
@@ -226,17 +270,15 @@ $ cat /etc/achintha.conf
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=achinthabh&theme=react-dark&hide_border=true&border_radius=12&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=achinthabh&theme=react-dark&hide_border=true&border_radius=12&area=true&area_color=FF00C8&line=00F5FF&point=FF0080"/>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       CONNECT                               -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░ CONNECT ░░░ -->
 
-## 🌐 slide into my dms
+## ◈ `🌐 find me irl` — slide into my dms
 
 <div align="center">
 
@@ -253,7 +295,7 @@ $ cat /etc/achintha.conf
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitter_/_X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
@@ -264,13 +306,13 @@ $ cat /etc/achintha.conf
 <br/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/achinthabh/count.svg"/>
+  <img src="https://komarev.com/ghpvc/?username=achinthabh&label=total+visitors&color=8000FF&style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/made_with-💜_and_google_tabs-FF0080?style=flat-square"/>
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER                              -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░ FOOTER ░░░ -->
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,60:8000FF,100:FF0080&height=140&section=footer"/>
