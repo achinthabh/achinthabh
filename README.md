@@ -7,15 +7,17 @@
 ███████████████████████████████████████████████████████████████
 -->
 
+<!-- ░░░░░░░░░░░░░░░░░░ BATMAN GIF — TOP HERO ░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+<img src="https://media1.tenor.com/m/eyqRSiKZ-k0AAAAC/im-gonna-git-ya-boi-git-ya.gif" width="500" alt="im gonna git ya"/>
+</div>
+
 <!-- ░░░░░░░░░░░░░░░░░░ HEADER WAVE ░░░░░░░░░░░░░░░░░░ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,40:8000FF,100:00F5FF&height=200&section=header&text=achintha.sh&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%F0%9F%94%90+cybersec+%C2%B7+%E2%98%81%EF%B8%8F+cloud+%C2%B7+%F0%9F%90%B3+devops+%C2%B7+%F0%9F%87%B1%F0%9F%87%B0+lk&descSize=18&descAlignY=62&descAlign=50"/>
 
-<!-- ░░░░░░░░░░░░░░░░░░ BATMAN GIF — HERO SECTION ░░░░░░░░░░░░░░░░░░ -->
-
 <div align="center">
-
-<img src="https://media1.tenor.com/m/eyqRSiKZ-k0AAAAC/im-gonna-git-ya-boi-git-ya.gif" width="480" alt="im gonna git ya"/>
 
 <br/><br/>
 
