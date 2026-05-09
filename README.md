@@ -7,19 +7,19 @@
 ███████████████████████████████████████████████████████████████
 -->
 
-<!-- ░░░░░░░░░░░░░░░░░░ BATMAN GIF — TOP HERO ░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-<img src="https://media1.tenor.com/m/eyqRSiKZ-k0AAAAC/im-gonna-git-ya-boi-git-ya.gif" width="500" alt="im gonna git ya"/>
-</div>
-
 <!-- ░░░░░░░░░░░░░░░░░░ HEADER WAVE ░░░░░░░░░░░░░░░░░░ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,40:8000FF,100:00F5FF&height=200&section=header&text=achintha.sh&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%F0%9F%94%90+cybersec+%C2%B7+%E2%98%81%EF%B8%8F+cloud+%C2%B7+%F0%9F%90%B3+devops+%C2%B7+%F0%9F%87%B1%F0%9F%87%B0+lk&descSize=18&descAlignY=62&descAlign=50"/>
 
+<!-- ░░░░░░░░░░░░░░░░░░ BATMAN GIF — CENTERED AFTER WAVE ░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+<img src="https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif" width="600" alt="Batman GIF"/>
+</div>
+
 <div align="center">
 
-<br/><br/>
+<br/>
 
 <!-- Typing SVG — cyberpunk magenta -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=FF00C8&center=true&vCenter=true&width=750&lines=hey+it's+Achintha+%F0%9F%91%BE;just+entered+the+matrix+%F0%9F%9F%A2;beginner+in+cloud+%26+cybersec+(no+cap)+%E2%98%81%EF%B8%8F%F0%9F%94%90;learning+to+hack...+ethically+%F0%9F%98%87;docker+go+brrr+%F0%9F%90%B3;from+%F0%9F%87%B1%F0%9F%87%B0+sri+lanka+with+wifi" alt="Typing SVG"/>
