@@ -2,15 +2,24 @@
 ███████████████████████████████████████████████████████████████
   ACHINTHA BHANUKA — GITHUB PROFILE README
   Theme: Cyberpunk · Gen Z · Cloud & Cybersec Beginner
+  GIF Sources: Tenor + GitHub CDN (user-images.githubusercontent.com)
+               — both bypass GitHub's image proxy restrictions ✅
 ███████████████████████████████████████████████████████████████
 -->
 
-<!-- ░░░ HEADER ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,40:8000FF,100:00F5FF&height=230&section=header&text=achintha.sh&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%F0%9F%94%90+cybersec+%C2%B7+%E2%98%81%EF%B8%8F+cloud+%C2%B7+%F0%9F%90%B3+devops+%C2%B7+%F0%9F%87%B1%F0%9F%87%B0+lk&descSize=19&descAlignY=60&descAlign=50"/>
+<!-- ░░░░░░░░░░░░░░░░░░ HEADER WAVE ░░░░░░░░░░░░░░░░░░ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,40:8000FF,100:00F5FF&height=200&section=header&text=achintha.sh&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%F0%9F%94%90+cybersec+%C2%B7+%E2%98%81%EF%B8%8F+cloud+%C2%B7+%F0%9F%90%B3+devops+%C2%B7+%F0%9F%87%B1%F0%9F%87%B0+lk&descSize=18&descAlignY=62&descAlign=50"/>
+
+<!-- ░░░░░░░░░░░░░░░░░░ BATMAN GIF — HERO SECTION ░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-<!-- Typing animation — cyberpunk magenta -->
+<img src="https://media1.tenor.com/m/eyqRSiKZ-k0AAAAC/im-gonna-git-ya-boi-git-ya.gif" width="480" alt="im gonna git ya"/>
+
+<br/><br/>
+
+<!-- Typing SVG — cyberpunk magenta -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=FF00C8&center=true&vCenter=true&width=750&lines=hey+it's+Achintha+%F0%9F%91%BE;just+entered+the+matrix+%F0%9F%9F%A2;beginner+in+cloud+%26+cybersec+(no+cap)+%E2%98%81%EF%B8%8F%F0%9F%94%90;learning+to+hack...+ethically+%F0%9F%98%87;docker+go+brrr+%F0%9F%90%B3;from+%F0%9F%87%B1%F0%9F%87%B0+sri+lanka+with+wifi" alt="Typing SVG"/>
 
 <br/><br/>
@@ -30,9 +39,11 @@
 
 ---
 
-<!-- ░░░ WHOAMI ░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░ WHOAMI ░░░░░░░░░░░░░░░░░░ -->
 
 ## ◈ `whoami`
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
 
 ```bash
 ┌──(achintha㉿universe)-[~]
@@ -46,7 +57,7 @@
   ╚═════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
 
   name      →  Achintha Bhanuka Wijerathna
-  aka       →  achinthabh on github
+  aka       →  achinthabh
   location  →  Colombo, Sri Lanka 🇱🇰
   uni       →  NSBM Green University
   degree    →  BSc (Hons) Computer Networks
@@ -62,7 +73,7 @@
 **lowkey, currently:**
 
 - 🌱 **total beginner** in cloud & cybersec — no shame, just grinding
-- ☁️ **poking around** Azure & GCP to see how stuff works
+- ☁️ **poking around** Azure & GCP to figure out how stuff works
 - 🔐 **doing rooms** on TryHackMe (taking the L's like a champ)
 - 🐳 **figuring out** Docker one error message at a time
 - 📜 **chasing** AZ-900 first, then the rest of the cert pipeline
@@ -73,38 +84,48 @@
 > *"every expert was once a beginner who didn't quit"* 💜  
 > skill issue? temporary. grind? permanent. 😤
 
+<br/>
+
 ---
 
-<!-- ░░░ LEARNING ROADMAP ░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░ ROADMAP ░░░░░░░░░░░░░░░░░░ -->
 
 ## ◈ `./roadmap.sh` — the grind plan
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500" alt="tech roadmap gif"/>
+
+<br/><br/>
+
 ```
-CLOUD DEVOPS PATH                    CYBERSECURITY PATH
+CLOUD & DEVOPS PATH                  CYBERSECURITY PATH
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🔄  Linux fundamentals               🔄  Networking basics
+  🔄  Linux fundamentals               🔄  Networking basics (TCP/IP)
   🔄  Bash scripting                   🔄  TryHackMe beginner rooms
   🎯  Docker basics                    🎯  OWASP Top 10
-  🎯  Azure Fundamentals (AZ-900)      🎯  CTF competitions
+  🎯  Azure Fundamentals (AZ-900)      🎯  First CTF competition
   🎯  CI/CD with GitHub Actions        🎯  CompTIA Security+
   💭  Kubernetes                       💭  Bug bounty hunting
   💭  Terraform / IaC                  💭  CEH / OSCP (the dream)
   💭  Cloud Security                   💭  Red team ops
 
-  🔄 = in progress   🎯 = next up   💭 = future goals
+  🔄 in progress · 🎯 next up · 💭 future goals
 ```
 
 </div>
 
 ---
 
-<!-- ░░░ CLOUD & DEVOPS ░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░ CLOUD & DEVOPS ░░░░░░░░░░░░░░░░░░ -->
 
 ## ◈ `☁️ cloud + devops` — what i'm learning
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500" alt="cloud devops gif"/>
+
+<br/><br/>
 
 **Cloud Platforms**
 <br/>
@@ -128,11 +149,7 @@ CLOUD DEVOPS PATH                    CYBERSECURITY PATH
 <br/>
 <img src="https://skillicons.dev/icons?i=githubactions,jenkins,grafana,prometheus&theme=dark"/>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
@@ -145,11 +162,15 @@ CLOUD DEVOPS PATH                    CYBERSECURITY PATH
 
 ---
 
-<!-- ░░░ CYBERSECURITY ░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░ CYBERSECURITY ░░░░░░░░░░░░░░░░░░ -->
 
 ## ◈ `🔐 cybersecurity` — just getting started
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" alt="cybersecurity gif"/>
+
+<br/><br/>
 
 | 🗂️ Domain | 🛠️ Tools & Concepts | 📊 Level |
 |:----------|:--------------------|:---------|
@@ -160,11 +181,7 @@ CLOUD DEVOPS PATH                    CYBERSECURITY PATH
 | 🚩 **CTF** | TryHackMe rooms | 🟡 Active |
 | 🧠 **OSINT** | Shodan · theHarvester | 🔴 Exploring |
 
-</div>
-
 <br/>
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
@@ -177,7 +194,7 @@ CLOUD DEVOPS PATH                    CYBERSECURITY PATH
 
 ---
 
-<!-- ░░░ CERT ROADMAP ░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░ CERT ROADMAP ░░░░░░░░░░░░░░░░░░ -->
 
 ## ◈ `📜 cert pipeline` — chasing paper
 
@@ -195,7 +212,7 @@ CLOUD DEVOPS PATH                    CYBERSECURITY PATH
 
 ---
 
-<!-- ░░░ RESOURCES ░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░ WHERE I LEARN ░░░░░░░░░░░░░░░░░░ -->
 
 ## ◈ `📚 where i actually learn` — the real ones
 
@@ -212,13 +229,13 @@ CLOUD DEVOPS PATH                    CYBERSECURITY PATH
 
 ---
 
-<!-- ░░░ FULL TECH STACK ░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░ -->
 
 ## ◈ `🛠️ tools i touch`
 
 <div align="center">
 
-**Languages I Know**
+**Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,java,js,cs,php,bash&theme=dark"/>
 
@@ -238,11 +255,15 @@ CLOUD DEVOPS PATH                    CYBERSECURITY PATH
 
 ---
 
-<!-- ░░░ GITHUB STATS ░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░░░░ -->
 
 ## ◈ `📊 the receipts` — github stats
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="stats gif"/>
+
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=achinthabh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" height="165"/>
 &nbsp;
@@ -276,11 +297,15 @@ CLOUD DEVOPS PATH                    CYBERSECURITY PATH
 
 ---
 
-<!-- ░░░ CONNECT ░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░ CONNECT ░░░░░░░░░░░░░░░░░░ -->
 
 ## ◈ `🌐 find me irl` — slide into my dms
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="300" alt="connect gif"/>
+
+<br/><br/>
 
 <a href="#">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -301,17 +326,15 @@ CLOUD DEVOPS PATH                    CYBERSECURITY PATH
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=achinthabh&label=total+visitors&color=8000FF&style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/made_with-💜_and_too_many_tabs-FF0080?style=flat-square"/>
+
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=achinthabh&label=total+visitors&color=8000FF&style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/made_with-💜_and_google_tabs-FF0080?style=flat-square"/>
-</div>
-
-<!-- ░░░ FOOTER ░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░ FOOTER WAVE ░░░░░░░░░░░░░░░░░░ -->
 
 <br/>
 
